@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Redux",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "React",
+      "status": true,
+      "id": 4
+    },
+    {
+      "title": "JavaScript",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "HTML",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
